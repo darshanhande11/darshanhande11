@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an E-Commerce Application.
 - 🌱 I’m currently learning Node.js and React.js
-- 👯 I’m looking to collaborate on **Web Projects** and **Flutter Projects**
+- 👯 I’m looking to collaborate on **Web** and **Flutter Projects**
 - 🤔 I’m looking for help with **Node.js**
 - ⚡ Fun fact: I would like to see the life and tech in the fourth millenium.
 - 📫 Let us Connect: 
