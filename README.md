@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Node.js and React JS
 - 👯 I’m looking to collaborate on **Web** and **Flutter Projects**
 - 🤔 I’m looking for help with **Node.js**
-- ⚡ Fun fact: I would like to see the life and tech in the fourth millenium.
+- ⚡ Fun fact: I would love to see the life and tech in the fourth millennium.
 - 📫 Let us Connect: 
   <p align='center'>
   <a href="mailto:darshanhande11@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
