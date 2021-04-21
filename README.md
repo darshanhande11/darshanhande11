@@ -12,9 +12,9 @@
   <a href="https://twitter.com/hande_darshan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/darshanhande11/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
 
-[![Darshan's github stats](https://github-readme-stats.vercel.app/api?username=darshanhande11&theme=radical&count_private=true)](https://github.com/darshanhande11/github-readme-stats)
+[![Darshan's github stats](https://github-readme-stats.vercel.app/api?username=darshanhande11&theme=radical&count_private=true)](https://github-readme-stats.vercel.app/api?username=darshanhande11&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhande11&&hide=CSS&layout=compact&theme=radical)](https://github.com/darshanhande11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhande11&&hide=CSS&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhande11&&hide=CSS&layout=compact&theme=radical)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=darshanhande11.darshanhande11)
