@@ -1,4 +1,4 @@
-### Hola! I'm Darshan Hande 👋
+### Hola! I'm Darshan Hande <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on an E-Commerce Application.
 - 🌱 I’m currently learning Node.js and React JS
