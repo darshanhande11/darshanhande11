@@ -1,9 +1,8 @@
 ### Hola! I'm Darshan Hande <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-- 🔭 I’m currently working on **Nothing**
-- 🌱 I’m currently learning Node.js and React JS
+- 🔭 I’m currently working on **IIITV Alumni Portal**
 - 👯 I’m looking to collaborate on **Web** and **Flutter Projects**
-- 🤔 I’m looking for help with **Node.js**
+- 🤔 I’m looking for help with **DSA**
 - ⚡ Fun fact: **Death Note** and **Naruto** are my favourite Anime.
 - 📫 Let us Connect: 
   <p align='center'>
