@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Full Stack Development Intern @[**Lookbook**](https://github.com/getlookbook) and on [**IIITV Alumni Portal**](https://github.com/iiitv/alumni-portal)
 - 👯 I’m looking to collaborate on **Web** and **Flutter Projects**
 - 🤔 I’m looking for help with **DSA**
-- ⚡ Fun fact: **Death Note** and **Naruto** are my favourite Anime.
+- ⚡ Fun fact: **Death Note**, **Attack on Titan** and **Naruto** are my favourite Anime.
 - 📫 Let us Connect: 
   <p align='center'>
   <a href="mailto:darshanhande11@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
