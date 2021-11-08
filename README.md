@@ -1,6 +1,5 @@
 ### Hola! I'm Darshan Hande <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-- 🔭 I’m currently working on [**IIITV Alumni Portal**](https://github.com/iiitv/alumni-portal)
 - 👯 I’m looking to collaborate on **Web** and **Flutter Projects**
 - 🤔 I’m looking for help with **DSA**
 - ⚡ Fun fact: **Death Note**, **Attack on Titan** and **Naruto** are my favourite Anime.
