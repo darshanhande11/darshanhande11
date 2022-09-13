@@ -1,7 +1,7 @@
 ### Hola! I'm Darshan Hande <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-- 👯 I’m looking to collaborate on **Web** and **Flutter Projects**
-- 🤔 I’m looking for help with **DSA**
+- 👯 I’m looking to collaborate on **Web Projects**
+- 🤔 I’m looking for help with **Web3**
 - ⚡ Fun fact: **Death Note**, **Attack on Titan** and **Naruto** are my favourite Anime.
 - 📫 Let us Connect: 
   <p align='center'>
