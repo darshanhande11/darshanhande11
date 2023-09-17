@@ -16,4 +16,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhande11&&hide=CSS&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhande11&&hide=CSS&layout=compact&theme=radical)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=darshanhande11.darshanhande11)
